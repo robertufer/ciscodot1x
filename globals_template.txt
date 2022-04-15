@@ -226,11 +226,11 @@ radius server _____
  key ____
 !
 radius server _____
- address ipv4 10.21.98.61 auth-port 1812 acct-port 1813
+ address ipv4 _____ auth-port 1812 acct-port 1813
  automate-tester username rad_keepalive ignore-acct-port idle-time 120
  key _____
 !
 radius server _____
- address ipv4 10.95.190.53 auth-port 1812 acct-port 1813
+ address ipv4 _____ auth-port 1812 acct-port 1813
  automate-tester username rad_keepalive ignore-acct-port idle-time 120
  key _____
